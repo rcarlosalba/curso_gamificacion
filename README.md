@@ -48,7 +48,13 @@ Se puede aplicar en mercadotecnia, recursos humanos, social
 - No se trata de convertir las actividades en juego, solo es traer la experiencia del juego, lo más parecido. Por lo tanto no es para enseñar valores
 - No es una metodología de enseñanza pero se puede usar para enseñar el retop es crear actividades que perduren
 
+## Espectro de soluciones lúdicas
+- Lo más importante es el ser humano, pues es el centro de nuestro enfoque, las motivaciones pueden ser:
+  -jugar, motivación intrinseca, se juega por jugar
+  -el juego, en el que se busca ganar per se puede perder, la motivación extrinseca
 
-
-
+  - Jugar se relaciona con la Estética
+    - Playful Design es la primera solución: convierte lo aburrido en algo divertido, las app para cepillarse los dientes, pero solo busca diversión. Convierte la "cosa" que usamos en juguete, el cepillo de dientes en el caso
+  - El Juego con la Estructura y con el Gamplay (todos los elemtos del juego)
+-- En medio de estos elementos nace la Gamificación: se diferencia por que busca la estetica (osea la diversión) pero toma la estrucutra del juego (por medio de mecánicas o dinámicas) para modelar/modificar el comportamiento. La Gamification no convierte la actividad en juego, 
 
