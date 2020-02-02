@@ -60,7 +60,22 @@ Se puede aplicar en mercadotecnia, recursos humanos, social
   - Gameplay
     - Juegos: deportes, videjojuegos, juegos de mesa, juegos como tal. 
  
-  - El Juego (estructura)y el Gameplay (la estética) dan paso a la **Gamificación** que es divertida y utiliza mecánicas/dinámicas para generar motivación que aumente o disminuya conductas. No es un juego pero utiliza la estrucutra del juego. La Gamificación: se diferencia por que busca la estetica (osea la diversión) pero toma la estrucutra del juego (por medio de mecánicas o dinámicas) para modelar/modificar el comportamiento. La Gamification no convierte la actividad en juego, permite una experiencia emergente, algo que no se espera. 
+- El Juego (estructura)y el Gameplay (la estética) dan paso a la **Gamificación** que es divertida y utiliza mecánicas/dinámicas para generar motivación que aumente o disminuya conductas. No es un juego pero utiliza la estrucutra del juego. La Gamificación: se diferencia por que busca la estetica (osea la diversión) pero toma la estrucutra del juego (por medio de mecánicas o dinámicas) para modelar/modificar el comportamiento. La Gamification no convierte la actividad en juego, permite una experiencia emergente, algo que no se espera. 
     La Estrcutura  y el GamePlay dan sesiones de juego, contrario a la experiencia emergenten de la Gamificación pues aquí hay un incicio y un fin establecido. Aqui nacen los **Serious Game** Juegos que buscan el aprendizaje. 
   
   
+## Elementos básicos y necesarios de un juego: 
+### Reglas
+  - limitaciones, tiempo, opciones, las reglas están claras y definidas desde el principio y no son alterables en el proceso
+### Resultado
+  - Desde el inicio el "jugador" sabe a donde tiene que llegar
+### Objetivos 
+  - ¿Qué es exactamente lo que hay que lograr? ¿Goles? ¿Puntos? ¿Derrotar al enemigo? 
+### Acción Voluntaria
+  - Desde el inicio el participante acepta las reglas y busca intencionalmente alcanzar el resultado y los objetivos
+### Desafio o Reto
+  - Lo suficientemente difícil para que cueste y lo soficientemente facil para que se logre. 
+### Feedback
+  - ¿Cómo lo estamos haceindo? ¿vamos bien? 
+
+## Diferencia entre jugar y el juego 
