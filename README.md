@@ -79,3 +79,17 @@ Se puede aplicar en mercadotecnia, recursos humanos, social
   - ¿Cómo lo estamos haceindo? ¿vamos bien? 
 
 ## Diferencia entre jugar y el juego 
+  - ¿Vamos a jugar un juego? desde las palabras inglesas es correcto - let´s play a game. 
+  - Jugar: casi todos los mamiferos(Elefantes, perros, gatos, vacas, etc) jugamos, la idea es el placer de hacerlo. Es un motivador para hacer cosas. La diferencia entre nosotros y los animales es que nosotros evolucionamos el jugar al juego 
+  - El juguete: el artefacto que habilita el jugar. Algo que permite jugar, 
+  - El juego: Sistema que esta compuesto por: objetivos, reglas, voluntario, tiene feedback, resultado, desafio, etc
+  **Si no nos divertimos no esta bien diseñado el juego**
+  **Lo seres humanos cambiamos a voluntad propia para ser mejores. Los animales puede evolucionar por necesidad más no por planificación (Nuestra capacidad cognitiva nos permite jugar y diseñar juegos)**
+  
+
+
+
+
+
+
+
