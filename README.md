@@ -50,11 +50,17 @@ Se puede aplicar en mercadotecnia, recursos humanos, social
 
 ## Espectro de soluciones lúdicas
 - Lo más importante es el ser humano, pues es el centro de nuestro enfoque, las motivaciones pueden ser:
-  -jugar, motivación intrinseca, se juega por jugar
-  -el juego, en el que se busca ganar per se puede perder, la motivación extrinseca
+  -**Jugar** motivación intrinseca, se juega por jugar, proporciona diversión
+  -**El juego** en el que se busca ganar pero se puede perder, la motivación extrinseca
 
-  - Jugar se relaciona con la Estética
-    - Playful Design es la primera solución: convierte lo aburrido en algo divertido, las app para cepillarse los dientes, pero solo busca diversión. Convierte la "cosa" que usamos en juguete, el cepillo de dientes en el caso
-  - El Juego con la Estructura y con el Gamplay (todos los elemtos del juego)
--- En medio de estos elementos nace la Gamificación: se diferencia por que busca la estetica (osea la diversión) pero toma la estrucutra del juego (por medio de mecánicas o dinámicas) para modelar/modificar el comportamiento. La Gamification no convierte la actividad en juego, 
-
+  - Estética:
+    - Playful Design (Divertido, Jueguete) es la primera solución: convierte lo aburrido en algo divertido, las app para cepillarse los dientes, pero solo busca diversión. Convierte la "cosa" que usamos en juguete, el cepillo de dientes en el caso
+  - Estructura: 
+    - Simulación: Crea un ambiente en el que se toman decisiones, nos nos enfreamos a riezfgos reales. (simulacion de vuelo) apredner de los errores. Es menos juego que un Serious game.
+  - Gameplay
+    - Juegos: deportes, videjojuegos, juegos de mesa, juegos como tal. 
+ 
+  - El Juego (estructura)y el Gameplay (la estética) dan paso a la **Gamificación** que es divertida y utiliza mecánicas/dinámicas para generar motivación que aumente o disminuya conductas. No es un juego pero utiliza la estrucutra del juego. La Gamificación: se diferencia por que busca la estetica (osea la diversión) pero toma la estrucutra del juego (por medio de mecánicas o dinámicas) para modelar/modificar el comportamiento. La Gamification no convierte la actividad en juego, permite una experiencia emergente, algo que no se espera. 
+    La Estrcutura  y el GamePlay dan sesiones de juego, contrario a la experiencia emergenten de la Gamificación pues aquí hay un incicio y un fin establecido. Aqui nacen los **Serious Game** Juegos que buscan el aprendizaje. 
+  
+  
