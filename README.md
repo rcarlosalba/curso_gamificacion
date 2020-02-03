@@ -87,7 +87,23 @@ Se puede aplicar en mercadotecnia, recursos humanos, social
   **Lo seres humanos cambiamos a voluntad propia para ser mejores. Los animales puede evolucionar por necesidad más no por planificación (Nuestra capacidad cognitiva nos permite jugar y diseñar juegos)**
   
 
+### Homo Ludens
+  - Jugar es buscar la diversión y el placer pero la diversión y el placer no son necesarimanete un juego.
+Jugar tiene 5 caracterisiticas: 
+  1. Es una expresión de libertad.
+  2. Jugar no es una acción relacionada a la vida real o a lo ordinario de la realidad .
+  3. Jugar se distingue de lo ordinario de la vida por su "ubicación" y "duración"
+  4. Jugar crea un orden. Una estructura absoluta y suprema.
+  5. Jugar no está conectado con un beneficio material y no se obtene ganacia alguna de la acción. 
+  
+Johan Huizinga acuño el termino "El circulo mágico" que es la percepción creada en el cerebro del que juega. Es la sensación "mágica" que separa de la realidad. 
 
+Los juegos son el jugar estructurado. Por nuestra capacidad cognitiva somos los únicos que podemos crear juegos y jugarlos.
+
+#### Otros fines de los juegos: 
+  - Aprendizaje:
+  - Expresión:
+  - Cultura: 
 
 
 
