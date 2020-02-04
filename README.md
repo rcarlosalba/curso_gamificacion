@@ -101,11 +101,63 @@ Johan Huizinga acuño el termino "El circulo mágico" que es la percepción crea
 Los juegos son el jugar estructurado. Por nuestra capacidad cognitiva somos los únicos que podemos crear juegos y jugarlos.
 
 #### Otros fines de los juegos: 
-  - Aprendizaje:
-  - Expresión:
-  - Cultura: 
+  - Aprendizaje: Se simulan acciones que permiten "ensayar" la realidad dentro del circulo mágico. 
+  - Expresión: Somos, hacemos y decimos libremente, no por nada más que por estar en nuestro espacio "mágico" donde todo es posible. 
+  - Cultura: El juego genera cultura, identificación, gustos, aficiones. 
+
+#### Los videjojuegos no son gamificación pero pueden compartir elementos, además es innegable el impacto de la indsutria de los videojuegos. 
+
+## Tipos de diversión: 
+  **Jugar es divertido**
+  **La diversión no es entretenimiento**
+  - **Primer tipo:** HardFun: Palabra clave: reto. Un riva que ha entrenado y es mejor, tenemos el reto de esforzarnos si queremos ganar. Deportes es el mejor ejemplo. Hardfun tiene: 
+    **Elementos:**
+    - Objetivos.
+    - Obstaculos.
+    - Estrategia. 
+    **Emociones:**
+    - Frustración.
+    - Alivio.
+    - Fierro.
+  - **Segundo tipo** Easy fun: Palabra clave: creatividad. Cine
+    **Elementos: **
+    - Exploración 
+    - Fantasía
+    - Creatividad
+    **Emociones: **
+    - Curiosidad
+    - Sorpresa
+    - Wonder: 
+  **Tercer tipo** People fun: palabra clave: las personas y sus interacciones. Futbol
+    **Elementos:**
+    - Competencia con otro equipo
+    - Cooperación entre el equipo
+    - Performance/ Espectáculo
+    **Emociones**
+    - Admiración 
+    - Amistad
+    - Orgullo 
+  **Cuarto tipo** Serious Fun: palabra clave: significado: escalar una montaña
+    **Elementos:**
+    - Aprendizaje
+    - Repeticiones
+    - Valores
+    **Emociones**
+    - Emoción/Expectativa
+    - Concentración
+    - Relajación
+
+#### Las clasificaciones no son excluyentes
+
+## Cómo funciona la motivación?
+- Antes de la motivación estan las necesidades
+- Luego de las necesidades estan los deseos 
+- Las motivación es la fuera que nos lleva a la acción
+  - La motivación es: 
+    1. Intrinseca: 
+    Eje que nos lleva a la acción hacia adelante, el exterior cambia y seguimos hacia adelante.
+    2. Extrinseca: 
+    Fuera, a futuro, si lo externo cambia no se modifica la conducta
 
 
-
-
-
+## Modelo de Fogg
