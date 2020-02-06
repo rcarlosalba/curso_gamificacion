@@ -161,3 +161,61 @@ Los juegos son el jugar estructurado. Por nuestra capacidad cognitiva somos los 
 
 
 ## Modelo de Fogg
+Dicho modelo habla de la propuesta de como por medio de disparadores se puede lograr el engagment 
+el autor dice que tienes tenemos en mayor o menor medida habilidad y motivación 
+En el eje X esta la habilidad 
+  tiempo 
+  dinero 
+  fisico 
+  mental 
+  El usuario debe tener las habilidades
+En el eje Y esta la motivación 
+  busca el placer 
+  evita el dolor 
+  busca aceptacion 
+  evita el rechazo
+  busca esperanza
+  evita el miedo 
+  Formula es Comportamientop = Motivación por habilidad por disparadores
+disparadores
+  facilitador alta motivacion poca habilidad 
+  señal mucha motivacion mucha habilidad 
+  chispa mucha habilidad poca motivacion
+## Teoría de determinación propioa
+Lo extrinseco se usa para logros de corto alcance 
+lo intrinseco se usa para logros de mediano y largo alcance 
+
+La teoría sostiene que todas las personas tiene tres ejer principales intrinsecos: 
+  1. Competencia: sentirse competenete 
+  2. Pertenencia: parte de algo, asocuiacipon, social o interpersonal
+  3. Autonomia: ejercer nuestra voluntad, tomar decisiones concientes.
+
+A esto en 2009 se agrego: 
+  4. Proposito: noción del significado o razón de ser de las acciones
+  
+Los juegos bien diseñados son efectivos motivando intrinsecamente. Pues logran lo mismo que la teoría de la determinación propia. 
+
+## Condicionesmiento Clasico
+Los juegos tienen el poder de motivar y la gamificación de usar esa motivación para cambiar patrones de conducta. 
+Estamos regulados por el condicionamiento clasico. Los juegos no son totalmente intrisecos pues hay outcomes -resultados- externos que motivan. 
+El condicionmiento clasico sirva para: 
+Aumentar una conducta: 
+  -. Refuerzo positivo: se porporciona algo "bueno" después de realizar la accion que queremos que se repita. Primio luego de hacer. 
+  -. Refuerzo negativo: se proporciona algo "malo" despues de realizar la acción que queremos que se repita. Evitar castiglo si logra. 
+Disminuir una conducta:
+  -. Castigo positivo: Se proporciona algo "malo" para eviar realizar la accion que no queremos que se repita. Castigo si vuelve a hacer algo. 
+  -. Castigo negativo: se le quita algo "bueno" para evitar realizar la accion que no queremos que se repita. Se le quita el postre si vuelve a hacer algo malo. 
+  
+### para qe sea efectivo: 
+  Los sujetos se **adaptan** al estimulo. Por lo que se debe aumentar la intensidad del estimulo. Por lo mismo es necesaria una rottación entre los refuerzos o castigos. 
+  El estimulo no debe ser **desproporcionado** de demasiado o muy poco valor. Se debe regular la **intensidad**
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
