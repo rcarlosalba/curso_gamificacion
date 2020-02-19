@@ -210,12 +210,31 @@ Disminuir una conducta:
   Los sujetos se **adaptan** al estimulo. Por lo que se debe aumentar la intensidad del estimulo. Por lo mismo es necesaria una rottación entre los refuerzos o castigos. 
   El estimulo no debe ser **desproporcionado** de demasiado o muy poco valor. Se debe regular la **intensidad**
   
+
+## Neurotransmisores
+Los neuro transmisores son biomoleculas que facilitan la neurotransimisión (transmisión de información).
+  -. **Dopamina:**
+  La dopamina hace que después de un evento sintamos satisfacción. Las personas no se vuelven adictas a los juegos sino a la dopamina liberada en el proceso. A mayor esfuerzo más dopamina.
+  -. **Serotonina:**
+  Regula el estado de amino. Percibimos los eventos según la cantidad de serotonina que tengamos en el cerebro. Vencer un obstaculo libera serotonina.
+  -. **Oxitocina:**
+  Es social, toques, besos, abrazos liberar oxitocina (también las reacciones en las redes). 
+  -. **Endorfina:**
+  Parecido a la Serotinina, pero con efectos en el cuerpo, menos dolor, mayor resistencia.
   
-  
-  
-  
-  
-  
-  
-  
-  
+## Elementos del Juego
+Los juegos sons sistemas que esta compuesto de varios elementos: 
+  -. Objetivo: proposito o fin.
+  -. Conflicto: reto o desafio.
+  -. Win State: Estado final (se busca ganar). 
+  -. Feedback: realimentación, ¿Cómo nos estamos desempeñando).
+  -. Outcome: Resultado, las consecuencias del Win State.
+  -. Reglas: lo que regula la acción. 
+**UX le quita problemas al los usuarios Game Design le pone retos** Raph Koster.
+Otros elementos: 
+  -. Acción voluntaria. 
+  -. Interactividad.
+  -. Sesión de juegos. 
+  -. Tener diversión.
+
+
