@@ -236,5 +236,64 @@ Otros elementos:
   -. Interactividad.
   -. Sesión de juegos. 
   -. Tener diversión.
+## Teroría del Flow
+
+Es la medida exacta entre la habilidad y la dificultad. Si es muy dificil produce frustración, si es demasiado facil produce aburrimiento. 
+
+## Framework MDA (Mechanics, Dynamics, Aesthetics)
+La mecánica da las reglas. 
+La dinámica es la ejecución de la mecánica. 
+La estética es la percepción que tiene el jugador al vivir la experiencia de juego. 
+### **Mecánica**
+Por ejemplo: Mario Bros: 
+Mario y lo que puede hacer es una mécanica. Las vidas son mécanicas. El tiempo es otra, el mundo es un feedback que es parte de la mecánica. Las monedas, todo lo que establece las reglas es mécanica. 
+Por ejemplo: Ajedrez: 
+Las reglas: un piezas por turno, cada pieza tiene su propio tipo de movimiento, es mecánica. 
+
+El juego debe dar el jugador la capacidad de tomar desiciones de valor. (con signifcado). Debe exitir la inquietud del siguiente movimiento. 
+**¿Cómo le doy reglas al usuario para que tome desiones de valor?**
+### **Dinámicas**
+Ocurren cuando se vive la experiencia, las reglas o mecánica puede exitir desde antes pero hasta que se viva.
+Ejemplo: en Mario Bros.
+El tiempo(mecánica): que es limite produce "presión" a no perder. Entre más tiempo más libertad, menos tiempo hay presión por finalizar. 
+Monedas(mecánicas): necesitas "explorar"(dinámica) para golpear bloques y conseguir monedas para obtener una vida más. Es necesario "testear" las dinámicas.
+En el ajedrez: 
+El peon se puede convertir en el rey. (mecánica) al convertirse (la dinámica) es dar un valor que no tenia antes. 
+
+Las rutas puedes ser reizgo: a más riezgo más recompensa, a menor riezgo menor recompenza. 
+
+### **Estética**
+Sensación o percepción al interactuar con el sistema.
+Minecraft: estetica orientada a la creación.
+Se logra por medio de la narrativa. En el caso del soccer es una estética de trabajo en equipo, pero a la vez hace incluir al aficionado y lo hace sentirse parte. 
+El tenis la estética es más al logro personal. 
+
+### **El balanceo**
+Es agregar mecánicas y/o dinámicas sin afectar la experiencia general. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
