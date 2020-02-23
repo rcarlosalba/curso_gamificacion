@@ -25,7 +25,7 @@
 - Los juegos son un elemento único de los seres humanos
 
 ## ¿Qué no es la Gamificación? 
-- las señales de trasnsito o las reglas de una empresa no son gamificaction, modifican conducta pero no hay modificación de conductas
+- las señales de transito o las reglas de una empresa no son gamificaction, modifican conducta pero no hay modificación de conductas
 - los programas de leatad son programas de leatad no gamification 
 ¿Por qué no? 
   - por que no son divertidas 
