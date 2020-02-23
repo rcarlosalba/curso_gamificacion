@@ -195,7 +195,7 @@ A esto en 2009 se agrego:
   
 Los juegos bien diseñados son efectivos motivando intrinsecamente. Pues logran lo mismo que la teoría de la determinación propia. 
 
-## Condicionesmiento Clasico
+## Condicionamiento Clasico
 Los juegos tienen el poder de motivar y la gamificación de usar esa motivación para cambiar patrones de conducta. 
 Estamos regulados por el condicionamiento clasico. Los juegos no son totalmente intrisecos pues hay outcomes -resultados- externos que motivan. 
 El condicionmiento clasico sirva para: 
@@ -271,7 +271,10 @@ El tenis la estética es más al logro personal.
 ### **El balanceo**
 Es agregar mecánicas y/o dinámicas sin afectar la experiencia general. 
 
-
+## Resumen: 
+-. **Antropología:** Hard, seriuos, easy, people fun.
+-. **Psicología:** Motivador Intrinseco, extrinseco. Ejes de la determinación propia. Crear autonomía. 
+-. **Game Design:** Aplicar MDA
 
 
 
