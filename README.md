@@ -277,8 +277,63 @@ Es agregar mecánicas y/o dinámicas sin afectar la experiencia general.
 -. **Game Design:** Aplicar MDA
 
 
+## Framework MDA
+Los lineamientos para usar dinámicas, mecánicas son: 
+-. Engagement Loop:
+    - Qué acción queremos que haga nuestro usuario? 
+    - Qué mecánicas vamos a integrar que van a motivar a la persona a realizar la acción?
+    - Cómo vamos a dar feedback o comunicar que la persona realizó la acción que queríamos? 
+    - Cómo vamos a incentivar? Recompenza? experiencia divertida? reto? 
 
+-. Progression Loop:
+    - La progresión de los Engagement Loops es divertida? 
+    - La progresión de los Engagement Loop implica con el paso del tiempo reto?
+    - Nuestro progression Loops esta dirigiendo a nuestro jugador a donde queremos? objetivo de negocio o comportamiento? 
+    
+### Mecánicas: 
+flexibles y con cierto grado de creatividad e imaginación para ser usadas en diferentes situaciónes. **lo importante es pensar en la necesidad de la experiencia que queremos crear y a partir de ahí buscar qué mecánicas pueden servir** algunas son: 
 
+  -. Misiones/ Objetivos:
+    Entre estas podemos encontrar: 
+      -. Quest: inplica un sentido de aventura. 
+      -. Puntos: dados a partir de cierto desempeño. 
+      -. Leaderboard: Ayuda a comunicar el desempeño a nivel global y generar competencia. 
+      -. Progress bar: Acumulación de puntos y feedback preciso. Precede a una recompensa.
+      -. Niveles de Experiencia: Llevar a cierto punteo para llegar a cierto nivel de "experiencia"
+      -. Personalización: usualmente en las app, a partir de cierto logro. 
+      -. Badges/ Achievement: insignias y7o logros. Es por realizar algo fuera de lo común. La idea es poder "presumir".
+      -. Desbloqueables: Acceder a elementos exclusivos o difíciles de conseguir. 
+      -. Currency o Moneda: Es para cambio de objetivos o servicios. Las monedas comprar privilegios.
+      -. Tiempo: Determina el uso de las monedas, le ejecución limite de una misión, etc. 
+      -. Aletoriedad: Sirve para combiar con otras y nadie tiene el control de la misma. Ej. Los dados. 
+      -. Premios o recompenzas: 
+          -. Fixed action reward: es un premio por un logro específico: 
+          -. Radom Rewards: No se sabe cual será el premio. 
+          -. Easter Eggs: Premio por hacer algo sin que se sepa que esa acción estaría premiada. 
+          -. Social treasure: el premio de un jugador a otro. 
+          -. Collection Set: Al coleccionador de premios o elementos. 
+      -. Certificado: Avala o demuestyra el valor/conocimiento del jugador. 
+      -. Habilidad: acción de un determinado jugador, exclusiva. 
+      -. Equipos: el equipo genera compentención y colaboración. 
+      -. Coleccionador: colecciona premios.
+      -. Intercambio: de stikers, etc.
+### Dinámicas: 
+Para aumnetar el egagement y progression loop.
+    -. Incremento de dificultad: progresiva y ligada al flow. 
+    -. Riezgo - Recompensa: 
+    -. Cooperación.
+    -. Competención. 
+
+### Estética: 
+Estas son algunas de las estéticas (sensaciones o experiencias), definidas que se pueden lograr a través de un juego.
+  -. Placer (sentir una emoción positiva)
+  -. Fantasía (vivir un mundo imaginario, que evoque la imaginación)
+  -. Narrativa (vivir una historia)
+  -. Reto (esforzarse para superar un reto)
+  -. Socialización (convivir a través del juego)
+  -. Descubrimiento (exploración)
+  -. Expresión (usar la creatividad para crear y generar ideas)
+  -. Pasatiempo (entretenimiento)
 
 
 
