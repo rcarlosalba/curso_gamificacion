@@ -335,7 +335,19 @@ Estas son algunas de las estéticas (sensaciones o experiencias), definidas que 
   -. Expresión (usar la creatividad para crear y generar ideas)
   -. Pasatiempo (entretenimiento)
 
+## Gamificaction: PBL
+Puntos, badges, leaderboard. 
 
+## Tipos de Jugadores: 
+Tipología de Richard Bartle. Son afines a ciertas dinámicas / mecánicas.
+-. Killers:
+  Hard and people fun, quiere aplastar a los demás. 
+-. Achievers:
+Seriuos fund, compite contra si mismo, no busca demostrar nada. 
+-. Socializers:
+people fun, comunicación, interaccion social, cooperar. 
+-. Explorers:
+Easy fun: es un gusto personal, no pretende competir con nadie. 
 
 
 
